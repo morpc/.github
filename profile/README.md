@@ -2,7 +2,7 @@
 
 This organization contains code intended for use by the Mid-Ohio Regional Planning Commission.
 
-As of May 2024, the organizations is maintained by Adam Porr, Research & Data Officer
+As of May 2024, the organization is maintained by Adam Porr, Research & Data Officer
 
 ## Suggested naming conventions
 
